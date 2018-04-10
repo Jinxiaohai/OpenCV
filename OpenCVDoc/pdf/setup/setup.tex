@@ -1,0 +1,67 @@
+% 中文控制
+\usepackage{ctex}
+% \usepackage[fancyhdr,fntef,nocap,space]{ctexcap}
+
+% 颜色控制
+\usepackage[table]{xcolor}
+\definecolor{seagreen}{RGB}{46, 139, 87}
+
+% 版面样式设置
+\usepackage{fancyhdr}
+\fancyhf{} %清空原有设置
+\pagestyle{fancy}
+\fancyfoot[C]{\thepage}
+\fancyheadoffset[RO,LE]{8pt}
+\fancyhead[ER,OL]{\slshape \color{magenta} \rightmark}
+\fancyhead[EL,OR]{\slshape \color{magenta} \leftmark}
+\fancypagestyle{plain}{\renewcommand{\headrulewidth}{0.1pt}\fancyhf{}}
+
+% 版面几何设置
+\usepackage[paperwidth=185mm,paperheight=260mm,text={148mm,220mm},left=21mm,right=21mm,top=25.5mm]{geometry}
+
+% 标题设置
+\usepackage{titlesec}
+\setcounter{secnumdepth}{6} %设置标题深度
+\titleformat{\chapter}{\centering\Huge\bfseries\color{seagreen}}{第\,\thechapter\,章}{1em}{}[\vspace{1cm}]
+\titlespacing*{\chapter}{0pt}{1.5ex plus 0.3ex minus 0.06ex}{1.0ex plus 0.1ex}
+\titlespacing*{\section}{0pt}{2ex plus 0.3ex minus 0.06ex}{2.0ex plus 0.1ex}
+
+% 目录设置
+\usepackage{titletoc}
+\setcounter{tocdepth}{1} %设置目录深度
+\titlecontents{chapter}[4em]{\addvspace{2.3mm}\bf}{\contentslabel{4.0em}}{}{\titlerule*[5pt]{$\cdots$}\contentspage}
+\titlecontents{section}[4em]{}{\contentslabel{2.5em}}{}{\titlerule*[5pt]{$\cdot$}\contentspage}
+\titlecontents{subsection}[7.2em]{}{\contentslabel{3.3em}}{}{\titlerule*[5pt]{$\cdot$}\contentspage}
+
+% 段落缩进
+\usepackage{indentfirst}
+\setlength{\parindent}{2em}
+
+% 行对齐
+\spaceskip=0.4em plus 0.1em minus 0.1em
+
+
+% 超链接设置
+\usepackage[colorlinks,citecolor=blue,linkcolor=seagreen,pagebackref]{hyperref}
+
+% 墙纸设置
+\usepackage{wallpaper}
+
+% 草稿设置
+\usepackage{draftwatermark}
+\SetWatermarkText{OpenCV}
+
+% 行号设置
+\usepackage[displaymath,left]{lineno}
+
+% 横向设置
+\usepackage{rotating}
+
+\usepackage{graphicx}
+
+\usepackage{multirow}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "setup"
+%%% End:

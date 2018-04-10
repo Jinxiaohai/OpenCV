@@ -1,0 +1,30 @@
+QMAKE_CXX.INCDIRS = \
+    /home/xiaohai/Software/gstreamer/install/include \
+    /home/xiaohai/Software/ffmpeg/install/include \
+    /home/xiaohai/Software/boost/install/include \
+    /home/xiaohai/Software/qt/install/5.9.1/gcc_64/include \
+    /home/xiaohai/Software/root/root/include \
+    . \
+    /usr/include/c++/4.8.5 \
+    /usr/include/c++/4.8.5/x86_64-redhat-linux \
+    /usr/include/c++/4.8.5/backward \
+    /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include \
+    /usr/local/include \
+    /usr/include
+QMAKE_CXX.LIBDIRS = \
+    /usr/lib/gcc/x86_64-redhat-linux/4.8.5 \
+    /usr/lib64 \
+    /lib64 \
+    /home/xiaohai/Software/qt/install/5.9.1/gcc_64/lib \
+    . \
+    /usr/lib \
+    /lib
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 4
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 8
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 5
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
