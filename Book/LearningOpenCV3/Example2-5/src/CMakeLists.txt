@@ -1,0 +1,7 @@
+file(GLOB SRC_FILE ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp)
+
+add_executable(${PROJECT_NAME} ${SRC_FILE})
+target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
+
+install(TARGETS ${PROJECT_NAME}
+  RUNTIME DESTINATION ${PROJECT_SOURCE_DIR}/bin)
