@@ -4,24 +4,16 @@ My OpenCV Project
 Introduction
 ------------
 
-OpenCV is an open source computer wision library available from [http://opencv.org](http://opencv.org). This library is written in C and C++ and runs under Linux, Windows, and Mac OS.
-
-Shadowsocks-Qt5 is a native and cross-platform [shadowsocks](http://shadowsocks.org) GUI client with advanced features.
+OpenCV是一个跨平台的计算机视觉库，其官方的网站为[http://opencv.org](http://opencv.org)。
+发布协议遵循BSD，因此可以被自由的用于学术和商业活动中。
+其代码主要由C和C++写成，但是为C++，Python和Java等语言都留有接口。
+计算机视觉在社会和商业中的流行间接的推动了OpenCV的广泛应用，
+这也导致了我对该领域的兴趣，因此OpenCV库的学习也是势在必行。
 
 Features
 --------
 
-- Shadowsocks-Qt5 is written in C++ with Qt 5.
-- Support traffic statistics
-- Support server latency (lag) test
-- Use multiple profiles simultaneously
-- `config.ini` is located under `~/.config/shadowsocks-qt5/` on \*nix platforms, or under the application's directory on Windows.
+- 代码主要来自<<Learning OpenCV3>>这本书，但是所有的代码都由自己重新敲了一遍。
+- 生成工具由CMake进行生成。
+- 版权：COPYLEFT
 
-LICENSE
--------
-
-![](http://www.gnu.org/graphics/lgplv3-147x51.png)
-
-Copyright © 2014-2017 Symeon Huang
-
-This project is licensed under version 3 of the GNU Lesser General Public License.
