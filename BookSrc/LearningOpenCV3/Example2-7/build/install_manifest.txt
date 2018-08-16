@@ -1,0 +1,1 @@
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/bin/OpencvProject

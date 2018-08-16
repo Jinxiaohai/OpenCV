@@ -1,0 +1,13 @@
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/CMakeFiles/install/strip.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/CMakeFiles/install.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/CMakeFiles/install/local.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/CMakeFiles/list_install_components.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/CMakeFiles/edit_cache.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/CMakeFiles/rebuild_cache.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/src/CMakeFiles/install/strip.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/src/CMakeFiles/edit_cache.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/src/CMakeFiles/OpencvProject.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/src/CMakeFiles/rebuild_cache.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/src/CMakeFiles/list_install_components.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/src/CMakeFiles/install/local.dir
+/home/xiaohai/Github/OpenCV/Book/LearningOpenCV3/Example2-7/build/src/CMakeFiles/install.dir
