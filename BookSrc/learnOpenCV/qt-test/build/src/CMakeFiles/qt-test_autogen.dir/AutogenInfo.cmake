@@ -1,0 +1,34 @@
+# Meta
+set(AM_MULTI_CONFIG "FALSE")
+set(AM_PARALLEL "2")
+# Directories
+set(AM_CMAKE_SOURCE_DIR "/home/xiaohai/perl5/code/learnopencv/qt-test")
+set(AM_CMAKE_BINARY_DIR "/home/xiaohai/perl5/code/learnopencv/qt-test/build")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/xiaohai/perl5/code/learnopencv/qt-test/src")
+set(AM_CMAKE_CURRENT_BINARY_DIR "/home/xiaohai/perl5/code/learnopencv/qt-test/build/src")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/qt-test_autogen")
+set(AM_INCLUDE_DIR "include")
+# Files
+set(AM_SOURCES "/home/xiaohai/perl5/code/learnopencv/qt-test/src/camviewer.cpp;/home/xiaohai/perl5/code/learnopencv/qt-test/src/main.cpp;/home/xiaohai/perl5/code/learnopencv/qt-test/src/mainwindow.cpp")
+set(AM_HEADERS "")
+set(AM_SETTINGS_FILE "/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/qt-test_autogen.dir/AutogenOldSettings.txt")
+# Qt
+set(AM_QT_VERSION_MAJOR "5")
+set(AM_QT_MOC_EXECUTABLE "/opt/qt/install/5.10.1/gcc_64/bin/moc")
+set(AM_QT_UIC_EXECUTABLE "/opt/qt/install/5.10.1/gcc_64/bin/uic")
+# MOC settings
+set(AM_MOC_SKIP "/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/moc_camviewer.cpp;/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/moc_mainwindow.cpp;/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/qt-test_autogen/mocs_compilation.cpp;/home/xiaohai/perl5/code/learnopencv/qt-test/src/camviewer.h;/home/xiaohai/perl5/code/learnopencv/qt-test/src/mainwindow.h")
+set(AM_MOC_DEFINITIONS "QT_3DCORE_LIB;QT_CORE_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_NO_DEBUG;QT_OPENGL_LIB;QT_POSITIONING_LIB;QT_PRINTSUPPORT_LIB;QT_QML_LIB;QT_QUICK_LIB;QT_WEBCHANNEL_LIB;QT_WEBENGINECORE_LIB;QT_WEBENGINE_LIB;QT_WIDGETS_LIB;QT_XML_LIB")
+set(AM_MOC_INCLUDES "/home/xiaohai/perl5/code/learnopencv/qt-test/build/src;/home/xiaohai/perl5/code/learnopencv/qt-test/src;/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/qt-test_autogen/include;/opt/boost/boost_1_67_0;/opt/opencv/install/include;/opt/opencv/install/include/opencv;/opt/qt/install/5.10.1/gcc_64/include;/opt/qt/install/5.10.1/gcc_64/include/QtCore;/opt/qt/install/5.10.1/gcc_64/./mkspecs/linux-g++;/opt/qt/install/5.10.1/gcc_64/include/QtGui;/opt/qt/install/5.10.1/gcc_64/include/QtWidgets;/opt/qt/install/5.10.1/gcc_64/include/QtNetwork;/opt/qt/install/5.10.1/gcc_64/include/QtOpenGL;/opt/qt/install/5.10.1/gcc_64/include/Qt3DCore;/opt/qt/install/5.10.1/gcc_64/include/QtPrintSupport;/opt/qt/install/5.10.1/gcc_64/include/QtWebEngine;/opt/qt/install/5.10.1/gcc_64/include/QtWebEngineCore;/opt/qt/install/5.10.1/gcc_64/include/QtQuick;/opt/qt/install/5.10.1/gcc_64/include/QtQml;/opt/qt/install/5.10.1/gcc_64/include/QtWebChannel;/opt/qt/install/5.10.1/gcc_64/include/QtPositioning;/opt/qt/install/5.10.1/gcc_64/include/QtXml;/usr/include")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "")
+set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD "/opt/gcc/install/bin/g++;-dM;-E;-c;/opt/cmake/install/share/cmake-3.11/Modules/CMakeCXXCompilerABI.cpp")
+# UIC settings
+set(AM_UIC_SKIP "/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/moc_camviewer.cpp;/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/moc_mainwindow.cpp;/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/qt-test_autogen/mocs_compilation.cpp")
+set(AM_UIC_TARGET_OPTIONS "")
+set(AM_UIC_OPTIONS_FILES "")
+set(AM_UIC_OPTIONS_OPTIONS "")
+set(AM_UIC_SEARCH_PATHS "")

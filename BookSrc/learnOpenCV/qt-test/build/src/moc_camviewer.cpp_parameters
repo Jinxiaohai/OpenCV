@@ -1,0 +1,6 @@
+-I/opt/boost/boost_1_67_0
+-I/home/xiaohai/perl5/code/learnopencv/qt-test/src
+-I/home/xiaohai/perl5/code/learnopencv/qt-test/build/src
+-o
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/moc_camviewer.cpp
+/home/xiaohai/perl5/code/learnopencv/qt-test/src/camviewer.h

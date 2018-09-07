@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+80d46c1f2ff4109b2695ce8e676531d8 src/CMakeFiles/qt-test_autogen
+45e04c98ff20eb8b5b7bcc6de0ba0f43 src/moc_camviewer.cpp
+c8f7b0012be4efa4cd7de1efaa5b313e src/moc_mainwindow.cpp

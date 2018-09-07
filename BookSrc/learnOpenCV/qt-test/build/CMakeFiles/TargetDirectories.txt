@@ -1,0 +1,14 @@
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/CMakeFiles/install/strip.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/CMakeFiles/install.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/CMakeFiles/install/local.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/CMakeFiles/list_install_components.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/CMakeFiles/edit_cache.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/CMakeFiles/rebuild_cache.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/install/strip.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/edit_cache.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/qt-test.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/rebuild_cache.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/list_install_components.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/install/local.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/install.dir
+/home/xiaohai/perl5/code/learnopencv/qt-test/build/src/CMakeFiles/qt-test_autogen.dir
